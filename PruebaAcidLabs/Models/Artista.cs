@@ -8,7 +8,9 @@ namespace PruebaAcidLabs.Models
     public class Artista
     {
         public int ID { get; set; }
-        public string Nombre { get; set; }
-        public Double Popularidad { get; set; }
+        public string NombreArtista { get; set; }
+        public decimal PopularidadArtista { get; set; }
+
+        public virtual ICollection<Album> Albumes { get; set; }
     }
 }

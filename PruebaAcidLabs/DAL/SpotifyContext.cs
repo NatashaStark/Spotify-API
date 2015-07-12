@@ -17,6 +17,7 @@ namespace PruebaAcidLabs.DAL
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
+            Database.SetInitializer<SpotifyContext>(new DropCreateDatabaseIfModelChanges<SpotifyContext>());
             modelBuilder.Conventions.Remove<PluralizingTableNameConvention>();
         }
     }

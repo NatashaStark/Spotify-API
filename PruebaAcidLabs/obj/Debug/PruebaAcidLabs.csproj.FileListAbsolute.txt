@@ -25,6 +25,10 @@ c:\users\natasha stark\documents\visual studio 2013\Projects\PruebaAcidLabs\Prue
 c:\users\natasha stark\documents\visual studio 2013\Projects\PruebaAcidLabs\PruebaAcidLabs\bin\System.Web.WebPages.Razor.xml
 c:\users\natasha stark\documents\visual studio 2013\Projects\PruebaAcidLabs\PruebaAcidLabs\bin\Antlr3.Runtime.pdb
 c:\users\natasha stark\documents\visual studio 2013\Projects\PruebaAcidLabs\PruebaAcidLabs\bin\Newtonsoft.Json.xml
-c:\users\natasha stark\documents\visual studio 2013\Projects\PruebaAcidLabs\PruebaAcidLabs\obj\Debug\PruebaAcidLabs.csprojResolveAssemblyReference.cache
 c:\users\natasha stark\documents\visual studio 2013\Projects\PruebaAcidLabs\PruebaAcidLabs\obj\Debug\PruebaAcidLabs.dll
 c:\users\natasha stark\documents\visual studio 2013\Projects\PruebaAcidLabs\PruebaAcidLabs\obj\Debug\PruebaAcidLabs.pdb
+c:\users\natasha stark\documents\visual studio 2013\Projects\PruebaAcidLabs\PruebaAcidLabs\obj\Debug\PruebaAcidLabs.Migrations.init.resources
+c:\users\natasha stark\documents\visual studio 2013\Projects\PruebaAcidLabs\PruebaAcidLabs\obj\Debug\PruebaAcidLabs.csproj.GenerateResource.Cache
+c:\users\natasha stark\documents\visual studio 2013\Projects\PruebaAcidLabs\PruebaAcidLabs\obj\Debug\PruebaAcidLabs.csprojResolveAssemblyReference.cache
+c:\users\natasha stark\documents\visual studio 2013\Projects\PruebaAcidLabs\PruebaAcidLabs\obj\Debug\PruebaAcidLabs.Migrations.init1.resources
+C:\Users\Natasha Stark\documents\visual studio 2013\Projects\PruebaAcidLabs\PruebaAcidLabs\obj\Debug\PruebaAcidLabs.Migrations.init2.resources
