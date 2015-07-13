@@ -124,17 +124,9 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201507112216513_init.cs" />
-    <Compile Include="Migrations\201507112216513_init.Designer.cs">
-      <DependentUpon>201507112216513_init.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201507112253277_init1.cs" />
-    <Compile Include="Migrations\201507112253277_init1.Designer.cs">
-      <DependentUpon>201507112253277_init1.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201507121811022_init2.cs" />
-    <Compile Include="Migrations\201507121811022_init2.Designer.cs">
-      <DependentUpon>201507121811022_init2.cs</DependentUpon>
+    <Compile Include="Migrations\201507131525111_init.cs" />
+    <Compile Include="Migrations\201507131525111_init.Designer.cs">
+      <DependentUpon>201507131525111_init.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Album.cs" />
@@ -179,31 +171,24 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
     <Content Include="Views\Buscar\Index.cshtml" />
+    <Content Include="Views\Buscar\Buscar.cshtml" />
     <Content Include="Views\Artista\Create.cshtml" />
     <Content Include="Views\Artista\Delete.cshtml" />
     <Content Include="Views\Artista\Details.cshtml" />
     <Content Include="Views\Artista\Edit.cshtml" />
     <Content Include="Views\Artista\Index.cshtml" />
-    <Content Include="Views\Buscar\Buscar.cshtml" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201507131525111_init.resx">
+      <DependentUpon>201507131525111_init.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="packages.config" />
     <None Include="Project_Readme.html" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Migrations\201507112216513_init.resx">
-      <DependentUpon>201507112216513_init.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201507112253277_init1.resx">
-      <DependentUpon>201507112253277_init1.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201507121811022_init2.resx">
-      <DependentUpon>201507121811022_init2.cs</DependentUpon>
-    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Demo.Helper\Demo.Helper.csproj">
