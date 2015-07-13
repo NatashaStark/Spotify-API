@@ -8,22 +8,20 @@ using System.Web.Mvc;
 using System.Xml;
 using Demo.Helper;
 using Demo.Helper.External;
+using PruebaAcidLabs.DAL;
+using PruebaAcidLabs.Models;
 
 namespace PruebaAcidLabs.Controllers
 {
     public class BuscarController : Controller
     {
+        private SpotifyContext db = new SpotifyContext();
+
         // GET: Buscar
         public ActionResult Index()
         {
             return View();
         }
-
-        //public ActionResult Buscar()
-        //{
-
-        //    return View();
-        //}
 
         public ActionResult Buscar(string Nombre)
         {
@@ -41,6 +39,23 @@ namespace PruebaAcidLabs.Controllers
             var data = readXML.RetrunListaArtistas(Path);
 
             return View(data.ToList()); 
+        }
+
+        public ActionResult Guardar(string name, string popularity)
+        {
+            var art = new Artista();
+
+            art.NombreArtista = name;
+            art.PopularidadArtista = popularity;
+
+            using (var dbCtx = new SpotifyContext())
+            {
+                dbCtx.Artistas.Add(art);
+
+                dbCtx.SaveChanges();
+            }
+
+            return null;
         }
 
     }

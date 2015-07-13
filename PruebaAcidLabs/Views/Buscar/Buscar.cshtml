@@ -11,23 +11,23 @@
 
 <table class="table table-bordered">
     <tr>
-        @*<th>ID</th>*@
         <th>Nombre Artista</th>
         <th>Popularidad</th>
+        <th>Guardar</th>
     </tr>
     @foreach (var item in Model)
     {
 
         <tr>
-            @*<td>
-                @Html.DisplayFor(modelItem => item.ID)
-            </td>*@
             <td>
                 @Html.DisplayFor(modelItem => item.name)
             </td>
 
             <td>
                 @Html.DisplayFor(modelItem => item.popularity)
+            </td>
+            <td>
+                @Html.ActionLink("Guardar","Guardar",new { name = item.name, popularity = item.popularity },null)
             </td>
         </tr>
     }

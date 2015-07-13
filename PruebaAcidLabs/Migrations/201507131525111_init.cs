@@ -13,8 +13,8 @@ namespace PruebaAcidLabs.Migrations
                     {
                         AlbumID = c.Int(nullable: false, identity: true),
                         ArtistaID = c.Int(nullable: false),
-                        Nombre = c.String(),
-                        Popularidad = c.Single(nullable: false),
+                        NombreAlbum = c.String(),
+                        PopularidadAlbum = c.Decimal(nullable: false, precision: 18, scale: 2),
                         Disponibilidad = c.String(),
                     })
                 .PrimaryKey(t => t.AlbumID)
@@ -26,8 +26,8 @@ namespace PruebaAcidLabs.Migrations
                 c => new
                     {
                         ID = c.Int(nullable: false, identity: true),
-                        Nombre = c.String(),
-                        Popularidad = c.Single(nullable: false),
+                        NombreArtista = c.String(),
+                        PopularidadArtista = c.String(),
                     })
                 .PrimaryKey(t => t.ID);
             
@@ -37,10 +37,10 @@ namespace PruebaAcidLabs.Migrations
                     {
                         PistaID = c.Int(nullable: false, identity: true),
                         AlbumID = c.Int(nullable: false),
-                        Nombre = c.String(),
+                        NombrePista = c.String(),
                         NumeroPista = c.Int(nullable: false),
                         Duracion = c.Int(nullable: false),
-                        Popularidad = c.Single(nullable: false),
+                        Popularidad = c.Decimal(nullable: false, precision: 18, scale: 2),
                     })
                 .PrimaryKey(t => t.PistaID)
                 .ForeignKey("dbo.Album", t => t.AlbumID, cascadeDelete: true)
