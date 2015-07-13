@@ -32,3 +32,5 @@ c:\users\natasha stark\documents\visual studio 2013\Projects\PruebaAcidLabs\Prue
 c:\users\natasha stark\documents\visual studio 2013\Projects\PruebaAcidLabs\PruebaAcidLabs\obj\Debug\PruebaAcidLabs.csprojResolveAssemblyReference.cache
 c:\users\natasha stark\documents\visual studio 2013\Projects\PruebaAcidLabs\PruebaAcidLabs\obj\Debug\PruebaAcidLabs.Migrations.init1.resources
 C:\Users\Natasha Stark\documents\visual studio 2013\Projects\PruebaAcidLabs\PruebaAcidLabs\obj\Debug\PruebaAcidLabs.Migrations.init2.resources
+C:\Users\Natasha Stark\documents\visual studio 2013\Projects\PruebaAcidLabs\PruebaAcidLabs\bin\Demo.Helper.dll
+C:\Users\Natasha Stark\documents\visual studio 2013\Projects\PruebaAcidLabs\PruebaAcidLabs\bin\Demo.Helper.pdb

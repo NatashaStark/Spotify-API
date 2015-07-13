@@ -5,7 +5,9 @@ using System.Linq;
 using System.Net;
 using System.Web;
 using System.Web.Mvc;
-using System.Xml;  
+using System.Xml;
+using Demo.Helper;
+using Demo.Helper.External;
 
 namespace PruebaAcidLabs.Controllers
 {
@@ -23,18 +25,23 @@ namespace PruebaAcidLabs.Controllers
         //    return View();
         //}
 
-        public ActionResult Buscar()
+        public ActionResult Buscar(string Nombre)
         {
-            string Nombre = "";
-
+            string Path = Server.MapPath("~/App_Data/ListaArtistas.xml");
             // Retrieve XML document  
-            XmlTextReader reader = new XmlTextReader("http://ws.spotify.com/search/1/artist?q=" + Nombre);
+            string Url = "http://ws.spotify.com/search/1/artist?q=" + Nombre;
+
+            XmlDocument myXMLDocument = new XmlDocument();
+
+            myXMLDocument.Load(Url);
+
+            myXMLDocument.Save(Path);
 
             XMLReader readXML = new XMLReader();
+            var data = readXML.RetrunListaArtistas(Path);
 
-            var data = readXML.RetrunListOfProducts();
-
-            return View(data.ToList());
+            return View(data.ToList()); 
         }
+
     }
 }

@@ -1,0 +1,5 @@
+C:\Users\Natasha Stark\documents\visual studio 2013\Projects\PruebaAcidLabs\Demo.Helper\obj\Debug\Demo.Helper.csprojResolveAssemblyReference.cache
+C:\Users\Natasha Stark\Documents\Visual Studio 2013\Projects\PruebaAcidLabs\Demo.Helper\bin\Debug\Demo.Helper.dll
+C:\Users\Natasha Stark\Documents\Visual Studio 2013\Projects\PruebaAcidLabs\Demo.Helper\bin\Debug\Demo.Helper.pdb
+C:\Users\Natasha Stark\Documents\Visual Studio 2013\Projects\PruebaAcidLabs\Demo.Helper\obj\Debug\Demo.Helper.dll
+C:\Users\Natasha Stark\Documents\Visual Studio 2013\Projects\PruebaAcidLabs\Demo.Helper\obj\Debug\Demo.Helper.pdb
