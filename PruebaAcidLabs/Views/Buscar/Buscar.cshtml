@@ -3,7 +3,32 @@
     ViewBag.Title = "Buscar";
 }
 
+@using Demo.Helper.External.Models;
+
+@model IEnumerable <Demo.Helper.External.Models.Artist>
+
 <h2>Resultados de la Búsqueda</h2>
 
+<table class="table table-bordered">
+    <tr>
+        @*<th>ID</th>*@
+        <th>Nombre Artista</th>
+        <th>Popularidad</th>
+    </tr>
+    @foreach (var item in Model)
+    {
 
+        <tr>
+            @*<td>
+                @Html.DisplayFor(modelItem => item.ID)
+            </td>*@
+            <td>
+                @Html.DisplayFor(modelItem => item.name)
+            </td>
 
+            <td>
+                @Html.DisplayFor(modelItem => item.popularity)
+            </td>
+        </tr>
+    }
+</table>
