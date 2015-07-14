@@ -26,25 +26,29 @@ namespace PruebaAcidLabs.Controllers
         public ActionResult Buscar(string Nombre)
         {
             string Path = Server.MapPath("~/App_Data/ListaArtistas.xml");
-            // Retrieve XML document  
-            string Url = "http://ws.spotify.com/search/1/artist?q=" + Nombre;
 
-            XmlDocument myXMLDocument = new XmlDocument();
+            if(Nombre != null){
+                // Retrieve XML document  
+                string Url = "http://ws.spotify.com/search/1/artist?q=" + Nombre;
 
-            myXMLDocument.Load(Url);
+                XmlDocument myXMLDocument = new XmlDocument();
 
-            myXMLDocument.Save(Path);
+                myXMLDocument.Load(Url);
+
+                myXMLDocument.Save(Path);
+            }
 
             XMLReader readXML = new XMLReader();
             var data = readXML.RetrunListaArtistas(Path);
-
+            
             return View(data.ToList()); 
         }
 
-        public ActionResult Guardar(string name, string popularity)
+        public ActionResult Guardar(string ID, string name, string popularity)
         {
             var art = new Artista();
 
+            art.ID = ID;
             art.NombreArtista = name;
             art.PopularidadArtista = popularity;
 
@@ -55,7 +59,43 @@ namespace PruebaAcidLabs.Controllers
                 dbCtx.SaveChanges();
             }
 
-            return null;
+            //buscando albumes
+            string Path = Server.MapPath("~/App_Data/ListaAlbumes.xml");
+
+            if (ID != null)
+            {
+                // Retrieve XML document  
+                string Url = "https://ws.spotify.com/lookup/1/?uri=spotify:artist:" + ID + "&extras=album";
+
+                XmlDocument myXMLDocument = new XmlDocument();
+
+                myXMLDocument.Load(Url);
+
+                myXMLDocument.Save(Path);
+
+                XMLReader readXML = new XMLReader();
+                var data = readXML.RetrunListaAlbumes(Path);
+
+                foreach (var album in data.ToList())
+                {
+                    var alb = new Album();
+
+                    alb.ID = album.ArtistaID + album.ID;
+                    alb.ArtistaID = album.ArtistaID;
+                    alb.NombreAlbum = album.name;
+                    //alb.PopularidadAlbum = album.popularity;
+                    alb.Disponibilidad = album.availability;
+
+                    using (var dbCtx = new SpotifyContext())
+                    {
+                        dbCtx.Albumes.Add(alb);
+
+                        dbCtx.SaveChanges();
+                    }
+                }
+            }
+
+            return RedirectToAction("Index");
         }
 
     }

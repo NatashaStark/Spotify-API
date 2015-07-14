@@ -22,7 +22,7 @@ namespace PruebaAcidLabs.Controllers
         }
 
         // GET: Artista/Details/5
-        public ActionResult Details(int? id)
+        public ActionResult Details(string id)
         {
             if (id == null)
             {
@@ -60,7 +60,7 @@ namespace PruebaAcidLabs.Controllers
         }
 
         // GET: Artista/Edit/5
-        public ActionResult Edit(int? id)
+        public ActionResult Edit(string id)
         {
             if (id == null)
             {
@@ -91,7 +91,7 @@ namespace PruebaAcidLabs.Controllers
         }
 
         // GET: Artista/Delete/5
-        public ActionResult Delete(int? id)
+        public ActionResult Delete(string id)
         {
             if (id == null)
             {
@@ -108,7 +108,7 @@ namespace PruebaAcidLabs.Controllers
         // POST: Artista/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public ActionResult DeleteConfirmed(int id)
+        public ActionResult DeleteConfirmed(string id)
         {
             Artista artista = db.Artistas.Find(id);
             db.Artistas.Remove(artista);

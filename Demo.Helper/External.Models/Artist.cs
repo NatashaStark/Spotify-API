@@ -11,7 +11,7 @@ namespace Demo.Helper.External.Models
     [XmlRoot("Artists"), XmlType("Artists")]
     public class Artist
     {
-        public int ID { get; set; }
+        public string ID { get; set; }
         public string name { get; set; }
         public string popularity { get; set; }
     }   

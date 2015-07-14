@@ -1,0 +1,50 @@
+﻿@model PruebaAcidLabs.Models.Album
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Album</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Artista.NombreArtista)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Artista.NombreArtista)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NombreAlbum)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NombreAlbum)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PopularidadAlbum)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PopularidadAlbum)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Disponibilidad)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Disponibilidad)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

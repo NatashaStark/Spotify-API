@@ -7,7 +7,7 @@ namespace PruebaAcidLabs.Models
 {
     public class Artista
     {
-        public int ID { get; set; }
+        public string ID { get; set; }
         public string NombreArtista { get; set; }
         public string PopularidadArtista { get; set; }
 

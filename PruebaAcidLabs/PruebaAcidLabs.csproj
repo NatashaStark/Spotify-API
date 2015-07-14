@@ -117,6 +117,7 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\AlbumController.cs" />
     <Compile Include="Controllers\ArtistaController.cs" />
     <Compile Include="Controllers\BuscarController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
@@ -124,9 +125,9 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201507131525111_init.cs" />
-    <Compile Include="Migrations\201507131525111_init.Designer.cs">
-      <DependentUpon>201507131525111_init.cs</DependentUpon>
+    <Compile Include="Migrations\201507142050206_init.cs" />
+    <Compile Include="Migrations\201507142050206_init.Designer.cs">
+      <DependentUpon>201507142050206_init.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Album.cs" />
@@ -135,6 +136,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Data\ListaAlbumes.xml" />
     <Content Include="App_Data\ListaArtistas.xml" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
@@ -177,11 +179,11 @@
     <Content Include="Views\Artista\Details.cshtml" />
     <Content Include="Views\Artista\Edit.cshtml" />
     <Content Include="Views\Artista\Index.cshtml" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Migrations\201507131525111_init.resx">
-      <DependentUpon>201507131525111_init.cs</DependentUpon>
-    </EmbeddedResource>
+    <Content Include="Views\Album\Create.cshtml" />
+    <Content Include="Views\Album\Delete.cshtml" />
+    <Content Include="Views\Album\Details.cshtml" />
+    <Content Include="Views\Album\Edit.cshtml" />
+    <Content Include="Views\Album\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
@@ -195,6 +197,11 @@
       <Project>{be9a28e9-9336-413d-aa70-57ab09f281a6}</Project>
       <Name>Demo.Helper</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201507142050206_init.resx">
+      <DependentUpon>201507142050206_init.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

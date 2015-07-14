@@ -32,3 +32,37 @@ C:\Users\Natasha Stark\documents\visual studio 2013\Projects\PruebaAcidLabs\Prue
 C:\Users\Natasha Stark\documents\visual studio 2013\Projects\PruebaAcidLabs\PruebaAcidLabs\bin\Demo.Helper.pdb
 C:\Users\Natasha Stark\documents\visual studio 2013\Projects\PruebaAcidLabs\PruebaAcidLabs\obj\Debug\PruebaAcidLabs.Migrations.init.resources
 C:\Users\Natasha Stark\documents\visual studio 2013\Projects\PruebaAcidLabs\PruebaAcidLabs\obj\Debug\PruebaAcidLabs.csproj.GenerateResource.Cache
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\PruebaAcidLabs\bin\PruebaAcidLabs.dll.config
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\PruebaAcidLabs\bin\PruebaAcidLabs.dll
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\PruebaAcidLabs\bin\PruebaAcidLabs.pdb
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\PruebaAcidLabs\bin\Antlr3.Runtime.dll
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\PruebaAcidLabs\bin\Demo.Helper.dll
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\PruebaAcidLabs\bin\EntityFramework.dll
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\PruebaAcidLabs\bin\EntityFramework.SqlServer.dll
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\PruebaAcidLabs\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\PruebaAcidLabs\bin\Newtonsoft.Json.dll
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\PruebaAcidLabs\bin\System.Web.Helpers.dll
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\PruebaAcidLabs\bin\System.Web.Mvc.dll
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\PruebaAcidLabs\bin\System.Web.Optimization.dll
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\PruebaAcidLabs\bin\System.Web.Razor.dll
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\PruebaAcidLabs\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\PruebaAcidLabs\bin\System.Web.WebPages.dll
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\PruebaAcidLabs\bin\System.Web.WebPages.Razor.dll
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\PruebaAcidLabs\bin\WebGrease.dll
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\PruebaAcidLabs\bin\Demo.Helper.pdb
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\PruebaAcidLabs\bin\EntityFramework.xml
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\PruebaAcidLabs\bin\EntityFramework.SqlServer.xml
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\PruebaAcidLabs\bin\System.Web.Helpers.xml
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\PruebaAcidLabs\bin\System.Web.Mvc.xml
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\PruebaAcidLabs\bin\System.Web.Optimization.xml
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\PruebaAcidLabs\bin\System.Web.Razor.xml
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\PruebaAcidLabs\bin\System.Web.WebPages.xml
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\PruebaAcidLabs\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\PruebaAcidLabs\bin\System.Web.WebPages.Razor.xml
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\PruebaAcidLabs\bin\Antlr3.Runtime.pdb
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\PruebaAcidLabs\bin\Newtonsoft.Json.xml
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\PruebaAcidLabs\obj\Debug\PruebaAcidLabs.csprojResolveAssemblyReference.cache
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\PruebaAcidLabs\obj\Debug\PruebaAcidLabs.dll
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\PruebaAcidLabs\obj\Debug\PruebaAcidLabs.pdb
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\PruebaAcidLabs\obj\Debug\PruebaAcidLabs.Migrations.init.resources
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\PruebaAcidLabs\obj\Debug\PruebaAcidLabs.csproj.GenerateResource.Cache

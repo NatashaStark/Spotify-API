@@ -4,7 +4,7 @@
     ViewBag.Title = "Details";
 }
 
-<h2>Details</h2>
+<h2>Detalles</h2>
 
 <div>
     <h4>Artista</h4>
@@ -26,6 +26,13 @@
             @Html.DisplayFor(model => model.PopularidadArtista)
         </dd>
 
+        <dt>
+            Albumes
+        </dt>
+
+        <dd>
+            @Html.ActionLink("Lista de Albumes", "Index", "Album", new { id = Model.ID }, null)
+        </dd>
     </dl>
 </div>
 <p>

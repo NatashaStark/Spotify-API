@@ -18,16 +18,51 @@ namespace Demo.Helper
         public List<Artist> RetrunListaArtistas(string Path)
         {
             string xmlData = Path; 
-            DataSet ds = new DataSet();//Using dataset to read xml file  
+            DataSet ds = new DataSet(); //Using dataset to read xml file  
             ds.ReadXml(xmlData);
             var artistas = new List<Artist>();
             artistas = (from rows in ds.Tables[2].AsEnumerable()
                         select new Artist
                         {
+                            ID = rows[2].ToString().Split(':')[2].ToString(),
                             name = rows[0].ToString(),
                             popularity = rows[1].ToString(),
                         }).ToList();
             return artistas;
         }
+
+        public List<Album> RetrunListaAlbumes(string Path)
+        {
+            string xmlData = Path;
+            DataSet ds = new DataSet(); //Using dataset to read xml file  
+            ds.ReadXml(xmlData);
+            var albumes = new List<Album>();
+            albumes = (from rows in ds.Tables[2].AsEnumerable()
+                        select new Album
+                        {
+                            ArtistaID = ds.Tables[0].Rows[1][2].ToString().Split(':')[2].ToString(),
+                            name = rows[0].ToString(),
+                            ID = rows[1].ToString(),
+                            availability = ds.Tables[3].Rows[Convert.ToInt32(rows[1].ToString())][0].ToString()
+                        }).ToList();
+            return albumes;
+        }
+
+        //public List<Track> RetrunListaPistas(string Path)
+        //{
+        //    string xmlData = Path;
+        //    DataSet ds = new DataSet(); //Using dataset to read xml file  
+        //    ds.ReadXml(xmlData);
+        //    var pistas = new List<Track>();
+        //    pistas = (from rows in ds.Tables[2].AsEnumerable()
+        //               select new Track
+        //               {
+        //                   ArtistaID = ds.Tables[0].Rows[1][2].ToString().Split(':')[2].ToString(),
+        //                   name = rows[0].ToString(),
+        //                   ID = rows[1].ToString(),
+        //                   availability = ds.Tables[3].Rows[Convert.ToInt32(rows[1].ToString())][0].ToString()
+        //               }).ToList();
+        //    return pistas;
+        //}
     }
 }

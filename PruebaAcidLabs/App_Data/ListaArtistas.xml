@@ -1,27 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <artists xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.spotify.com/ns/music/1">
-  <opensearch:Query role="request" startPage="1" searchTerms="Linkin Park" />
-  <opensearch:totalResults>5</opensearch:totalResults>
+  <opensearch:Query role="request" startPage="1" searchTerms="Nightwish" />
+  <opensearch:totalResults>2</opensearch:totalResults>
   <opensearch:startIndex>0</opensearch:startIndex>
   <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
-  <artist href="spotify:artist:6XyY86QOPPrYVGvF9ch6wz">
-    <name>Linkin Park</name>
-    <popularity>0.89</popularity>
+  <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+    <name>Nightwish</name>
+    <popularity>0.72</popularity>
   </artist>
-  <artist href="spotify:artist:3wChxfdox9nn0vqQrK4SBf">
-    <name>LINKIN PARK x STEVE AOKI</name>
-    <popularity>0.58</popularity>
-  </artist>
-  <artist href="spotify:artist:2tFblYtXKLTFjvH1sxfbv1">
-    <name>Jay-Z/ Linkin Park</name>
-    <popularity>0.39</popularity>
-  </artist>
-  <artist href="spotify:artist:61N0AYU2j8qon6ggYQ6qSP">
-    <name>Busta Rhymes feat. Linkin Park</name>
-    <popularity>0.37</popularity>
-  </artist>
-  <artist href="spotify:artist:54t6hlkGZHlMTC0Ndh0E5A">
-    <name>Karaoke - Linkin Park</name>
-    <popularity>0</popularity>
+  <artist href="spotify:artist:5PvT3IZFIjMLrj1lhezX2R">
+    <name>DJ Somy feat. Nightwish</name>
+    <popularity>0.18</popularity>
   </artist>
 </artists>

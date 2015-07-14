@@ -1,0 +1,1842 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<artist xmlns="http://www.spotify.com/ns/music/1">
+  <name>Nightwish</name>
+  <albums>
+    <album href="spotify:album:34cB85J5qbh5R08ce4c2HX">
+      <name>Endless Forms Most Beautiful (Deluxe Edition)</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories />
+      </availability>
+    </album>
+    <album href="spotify:album:12WqL9al2Zkh6Av4ctMUap">
+      <name>Endless Forms Most Beautiful</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AU NZ</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:0Z7A6aVK6N5AEtRm1HtFQO">
+      <name>Endless Forms Most Beautiful</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories />
+      </availability>
+    </album>
+    <album href="spotify:album:50wYRXPk6GTJ6xDA3dQqas">
+      <name>Endless Forms Most Beautiful</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>HK MY SG</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:4uTfUoZ5qoyFtGcOiJPFHQ">
+      <name>Endless Forms Most Beautiful (Deluxe Version)</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:24jp5AbfTjTNRXMBVWr7x6">
+      <name>The Three Goddesses of Metal: The Best Songs from the Top Female Fronted Bands in Metal; Nightwish, Within Temptation, And Epica</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:3wjgwTtwOm1yqUeeRoqhcR">
+      <name>Imaginaerum (The Score)</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>DK IS NO SE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:7EIjgr1QML6dfSsShfwgE0">
+      <name>Imaginaerum - The Score</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>FI</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:2Dfa8eN4CUiNPrbmPYlpre">
+      <name>Imaginaerum (The Score)</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AD BE BG CY CZ EE ES FR GB GR HR HU IE IS LI LT LU LV MC MT NL PL PT RO SI SK TR</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:1znCfApDa8RWLIRIjtbHk9">
+      <name>Showtime, Storytime</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:0JUO2CzAlW6aDm8hjP4oVi">
+      <name>Showtime, Storytime (Live)</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>DK NO SE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:6wuR99S9OuyyWN5tD1EMQZ">
+      <name>Showtime, Storytime (Live)</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>FI</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:0uTjYrqaPOPsrWZoZwLV5t">
+      <name>Showtime, Storytime</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AU MY NZ SG TR</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:1tZlCjdI2dcfBXP8iSDsSI">
+      <name>Showtime, Storytime</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AD BE BG CY CZ EE ES FR GB GR HR HU IE IS LI LT LU LV MC MT NL PL PT RO SI SK TR</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:5F5WW0xvt7I1htFP1CPGP3">
+      <name>Showtime, Storytime</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>CA MX US</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:1Xurk5fSJE5OIGNtBkqY2Q">
+      <name>Imaginaerum</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>FI</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:1yssEiclrpPwxfzpMyHaHb">
+      <name>Imaginaerum</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:6cuhF2u1V4nhHJj2mvPlE7">
+      <name>Imaginaerum</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>DK NO SE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:6ALRNS4aJymfOG7JjGGOOu">
+      <name>Imaginaerum</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:24FEHm9O5fBnBtolT1jP41">
+      <name>Imaginaerum</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AU CA NZ US</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:6WfqJgElyJ20qJo5zffHrd">
+      <name>Imaginaerum (Deluxe Version)</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AT CH DE IT</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:0PrD5iF2RwsMTgS1QppX3O">
+      <name>Walking In The Air - The Greatest Ballads</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AT DE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:1yeqzh3AMSJ7limC1o5qlS">
+      <name>Walking in the Air - the Greatest Ballads</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>FI</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:1qR9oVoc8kB30sQhF8hG37">
+      <name>Made In Hong Kong [And Various Other Places]</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AU CA NZ US</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:2QlWqacwqb5iG91gT91iai">
+      <name>Made in Hong Kong (And in Various Other Places) [Live]</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>DK EE FI IS LT LV NO SE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:3okRxgsviCUR3NpyHpiB2X">
+      <name>Made in Hong Kong (And in Various Other Places)</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories />
+      </availability>
+    </album>
+    <album href="spotify:album:5w3Zd1bo6SYLqi51GBdCEE">
+      <name>Made in Hong Kong (And in Various Other Places)</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>MX</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:3uRdBTW7PTFoF5nfgGEOUR">
+      <name>Made In Hong Kong [And In Various Other Places]</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AT CH CZ DE HU IT PL</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:6MCfj41Tsc8d6Wu8CpIchg">
+      <name>Made In Hong Kong (And In Various Other Places)</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AD BE BG CY CZ EE ES FR GB GR HR HU IE IS LI LT LU LV MC MT NL PL PT RO SI SK TR</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:43XtbiBXakEt7ptYS278Xv">
+      <name>Bye Bye Beautiful</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>DK IS NO SE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:6gf6DbD0u0lCWFN7a17aQn">
+      <name>The Sound of Nightwish Reborn</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>DK IS NO SE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:4GUQpC6dqTk5x6JObs9K3I">
+      <name>The Sound Of Nightwish Reborn [Digital Only]</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AT CH DE IS IT</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:0qVZwzKfRhwCqTqRwuwpDB">
+      <name>The Sound Of Nightwish Reborn</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AD BE BG CY CZ EE ES FR GB GR HR HU IE IS LI LT LU LV MC MT NL PL PT RO SI SK TR</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:34Awyc6qIxHdX9mdSly5P7">
+      <name>'The Sounds of Nightwish Reborn: Early Demos for "Dark Passion Play" and B-Sides'</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AU CA NZ US</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:5OzeptvSiQDxzHHXARwNzC">
+      <name>Dark Passion Play</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:39vqvpoiEZWKkZa8tXzk8T">
+      <name>Dark Passion Play</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>DK IS NO SE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:5SrjvT8gGQNv2RyCgRnFKL">
+      <name>Dark Passion Play</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>FI</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:4FQo6BIW1OYtb7nWZDz547">
+      <name>Dark Passion Play</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>FI</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:04AY342t1wSW1MzsGmHDPU">
+      <name>Dark Passion Play</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AU CA NZ US</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:6x7ekU7tcgIZ85IIvg7O3A">
+      <name>Dark Passion Play</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>BR FI</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:1n3te9RsnvUM7A1QNT6FS1">
+      <name>Dark Passion Play</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>CZ EE FI LT LV NO PT SE SG SK</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:75Sgdm3seM5KXkEd46vaDb">
+      <name>Dark Passion Play</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AT DE DK GR IS IT NO SE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:6dCDDBfjwGmohKTFnZHlzP">
+      <name>Dark Passion Play</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>MX</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:2LQ52yDk9Ey7qBrq4XSo8W">
+      <name>Dark Passion Play</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AD BE BG CY CZ EE ES FR GB GR HR HU IE IS LI LT LU LV MC MT NL PL PT RO SI SK TR</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:1O42Y3qoPMddTlvR9B0G7f">
+      <name>Dark Passion Play (Deluxe Edition)</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AR AU BO BR CA CL CO CR DO EC GT HK HN MX MY NI NZ PA PE PH PY SG SV TW US UY</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:4VqPuC0LLhgb1Gp3SVEd1u">
+      <name>Dark Passion Play</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AD BE BG CY CZ DK EE ES FR GB GR HR HU IE IS IT LI LT LU LV MC MT NL NO PL PT RO SE SI SK TR</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:3gh974oWasUkMjpn0EipIo">
+      <name>Dark Passion Play</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AD BE BG CY CZ EE ES FR GB GR HR HU IE IS LI LT LU LV MC MT NL PL PT RO SI SK TR</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:5dzEzHFaDw5nXEGKnmcFlo">
+      <name>End Of An Era</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>FI</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:1rTK5DsXBeGXpWVglbCCEv">
+      <name>End of an Era (Live)</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>DK IS NO SE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:7BFwJhAlOQanOzRO0vYSQ3">
+      <name>End Of An Era</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AT DE IT</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:6pUT2rcbKtk1LuLxJ5iIcK">
+      <name>End Of An Era</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>MX</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:3RZRfLtJ1arwxWwIhPaVQg">
+      <name>End Of An Era</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>DK FI NO SE SG</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:3M7VaNEilXwUa5beDWyvA5">
+      <name>End Of An Era</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AU CA US</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:1momIVmKXVJuaIJ9lSYqIJ">
+      <name>End Of An Era</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AD BE BG CY CZ EE ES FR GB GR HR HU IE IS LI LT LU LV MC MT NL PL PT RO SI SK TR</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:2wbXOTQaDS9Jnu2bjpHwEd">
+      <name>Highest Hopes-The Best Of Nightwish</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AT BE CH CZ DK ES FR HK HR IT MY NL NO PT SE SG SK TR TW</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:2VjhAwhEZfKc0qMzgrc0Oj">
+      <name>Highest Hopes-The Best Of Nightwish</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>MX</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:0DPApx39c2BiGOoMxaDamp">
+      <name>Highest Hopes-The Best Of Nightwish</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>FI</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:3MbnRhlmQZ0m1I9d6MBGKz">
+      <name>Tales From The Elvenpath - Best Of</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AT DE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:5sHIuXeNUs3Tqfg7kQIFVT">
+      <name>Once</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AU CA NZ US</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:2vaeoAzATVgE2npjBCnH5x">
+      <name>Once</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AT DE DK IS IT NO SE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:13BVicwsbPLIaMvr6ivH6B">
+      <name>Once</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AD BE BG CY CZ EE ES FR GB GR HR HU IE IS LI LT LU LV MC MT NL PL PT RO SI SK TR</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:58uvcmqdOdhVebuc6AHI6c">
+      <name>Once Finnish Double Platinum Edition</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>FI</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:3n22ufDa0I4iAT1CPJRRna">
+      <name>Bless the Child - The Rarities</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:4FFDudC4xBVF6MYJUynRsN">
+      <name>Century Child</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>CA MX</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:5R7jqwTRTwDmBt62wJjUy7">
+      <name>Century Child</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AD AR AU BE BG BO BR CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:4oLl05tvK9qqhYiW8N767c">
+      <name>Century Child</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>MX</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:44kzDmMHJn474wrwDd3pCi">
+      <name>Century Child</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AT DE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:0H5IihMK4BQe8udvOtpJ6P">
+      <name>From Wishes To Eternity</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>CZ DK FI SG SK</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:4nfVTVjWPRAYkXFkNAUbw6">
+      <name>Over the Hills and Far Away</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>FR GB PT</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:4sPRDVFW50ZnrKDlg9SwIG">
+      <name>Over The Hills And Far Away</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>CA</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:4E51xP9hS5Ox2A3XT3b9WV">
+      <name>Over The Hills And Far Away</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AT DE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:7i0VrpkfbDbYlBy3Jknt6f">
+      <name>Wishmaster</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>SE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:4u5Ik7NMYl3EITJngbMS4V">
+      <name>Wishmaster</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>CA MX</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:2ifhABKGIDO31LKO4RyNmF">
+      <name>Wishmaster</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AT DE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:1XRxECUgmGNpwbhWwMnJrs">
+      <name>Wishmaster</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>CZ DK FI SK</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:7Jtey0lfjFjPY9I0M4zhxE">
+      <name>Oceanborn</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>FR GB PT</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:37LveKPgKGwpuI0cEVbPj4">
+      <name>Oceanborn</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>CA MX</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:0hsS3rW3uPBer1pejhgAEv">
+      <name>Oceanborn</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AR BE BG BR CZ DK EE ES FI FR GB GR HK HR HU IE IS LT LU LV MY NL NO NZ PL PT RO SE SG SI SK TR</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:2GnQpLIBWJvSQZ103D1Zox">
+      <name>Oceanborn</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>BG GR IS LT</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:3X7McEZHrzYGZwaV4hnMCx">
+      <name>Oceanborn</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AT DE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:5ijhla4go9hgv4TAz4lt5j">
+      <name>Angels Fall First</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>CA MX</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:3jrCGFKHl1N4f7U3xljLNX">
+      <name>Angels Fall First</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>FR GB PT</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:47hu3yT08Vvj09Ol0cEpyD">
+      <name>Angels Fall First</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AT CH CZ DK FI SK</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:5bvW3JI2aX5ErkgZYbkDMs">
+      <name>Endless Forms Most Beautiful</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>DK IS NO SE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:2HODV4sKCTWdjM8I57MJft">
+      <name>Endless Forms Most Beautiful</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>FI</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:78snVj4iWtLVP9vztPE8QE">
+      <name>Endless Forms Most Beautiful</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AT CH DE IT</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:1pmGqbzxT1MLclIwYbdy1Z">
+      <name>Endless Forms Most Beautiful</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:2MQVThkoBmIPgaTUdNxlwT">
+      <name>Endless Forms Most Beautiful</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AR BO BR CL CO CR DO EC GT HN MX MY NI PA PE PH PY SG SV TR UY</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:01lIOssJqsH1fijbrSBxfS">
+      <name>Endless Forms Most Beautiful (Radio Edit)</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AD BE BG CY CZ EE ES FR GB GR HR HU IE IS LI LT LU LV MC MT NL PL PT RO SI SK TR</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:7jukLhuWhu8IKZzHwOqLNM">
+      <name>Endless Forms Most Beautiful</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories />
+      </availability>
+    </album>
+    <album href="spotify:album:4csLh3lrN3m7jttLX3V46O">
+      <name>Shudder Before The Beautiful</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AT CH DE IT</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:4tjCknkOnbdoVw7gvRGKDb">
+      <name>Shudder Before The Beautiful</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AD BE BG CY CZ EE ES FR GB GR HR HU IE IS LI LT LU LV MC MT NL PL PT RO SI SK TR</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:3pw7Vo4KVJpo069yahlcGG">
+      <name>Shudder Before the Beautiful- Single</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AR BO BR CL CO EC MY PE PH PY SG TR UY</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:45nJvFdjWyp0VOIuxQuVDN">
+      <name>Shudder Before the Beautiful - Single</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>CA CR DO GT HN MX NI PA SV US</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:554VGCvGLKXEUFnFHhxNT5">
+      <name>Élan</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AU NZ</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:7CNbF8qyzhSxvXZrawCjv7">
+      <name>Elan</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories />
+      </availability>
+    </album>
+    <album href="spotify:album:3ZHyIA1ue7cqE0vITsvg9p">
+      <name>Élan</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>DK IS NO SE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:6T4RcVYxHroz1i8BwZcS8n">
+      <name>Élan</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AT CH DE IT</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:7Ftcbn1jhrTSU63HZbKHxf">
+      <name>Élan</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>FI</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:1HUwRKk0LfCXs6KV62pgBC">
+      <name>Élan</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>CA CR DO GT HN MX NI PA SV US</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:0e432DCRdxLqfgj4nvagPi">
+      <name>Élan</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AR BO BR CL CO EC MT MY PE PH PY SG TR UY</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:1cPCBP1Yigbior1lSpB50q">
+      <name>Élan</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AD BE BG CY CZ EE ES FR GB GR HR HU IE IS LI LT LU LV MC MT NL PL PT RO SI SK TR</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:2RLBPSuVufNh8Dofuzt7dP">
+      <name>Ghost Love Score (Live)</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AT CH DE IT</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:2IzQBceGkcqTmSO3elzmWi">
+      <name>Ghost Love Score (Live)</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>DK NO SE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:3R2oL58iLevtPGeEOUz1ZL">
+      <name>Ghost Love Score (Live)</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AU MY NZ SG TR</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:44vrhxbg76lAQlddiBFVjO">
+      <name>Ghost Love Score (Live, Edit)</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AD BE BG CY CZ EE ES FR GB GR HR HU IE IS LI LT LU LV MC MT NL PL PT RO SI SK TR</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:211HPbhJempXhWKPiLvBdX">
+      <name>Ghost Love Score (Live)</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>CA MX US</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:1VgDtRgMUKzwcbv6lUJhRe">
+      <name>Storytime</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AT CH DE IT</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:7mBs9hKZagqDn9jy6qSuZq">
+      <name>Storytime (Edit)</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>DK NO SE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:1ccaQo7bOO2RQ6ejgRsFTF">
+      <name>Storytime</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AU MY NZ SG TR</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:0CbthCo21NNyiSl8W2shFY">
+      <name>Storytime (edit) [Live @ Wacken 2013]</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AD BE BG CY CZ EE ES FR GB GR HR HU IE IS LI LT LU LV MC MT NL PL PT RO SI SK TR</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:0E5Igr52fiidgP2xcz8odj">
+      <name>Storytime</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>CA MX US</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:02YLGE7OtLFxuloIgdeD65">
+      <name>The Crow, the Owl and the Dove</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>DK IS NO SE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:7EBVmOwuM2p6o3IacZJUEy">
+      <name>The Crow, The Owl And The Dove</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>FI</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:6AQUfFDeBnACgYaetHPVtx">
+      <name>The Crow, The Owl And The Dove</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AT CH DE DK IT NO SE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:36u8NiBp0Pv0z3qpaBUbs6">
+      <name>The Crow, the Owl and the Dove</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AD BE BG CY EE ES FR GB HR IE IS LI LT LU LV MC MT NL PT RO SI SK TR</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:0k5DnRf856y7HqLUkiYMa0">
+      <name>Storytime</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>DK IS NO SE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:6uIlu7fglC73f2nJ5Fufw2">
+      <name>Storytime</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AT CH DE IT</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:63KAYGHhXwoHiZm5kdNLJq">
+      <name>Storytime</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>FI</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:57diPuoXbuxZA7FJhetO7i">
+      <name>Storytime</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>DK NO SE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:6au7qK4bYQmX6xcoSalVpZ">
+      <name>Storytime</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AU CA NZ US</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:32Um16Busg4PF3Yo06YkvN">
+      <name>Storytime</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AD BE BG CY EE ES FR GB HR IE IS LI LT LU LV MC MT NL PT RO SI SK TR</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:30eIaUbeizeGalgtKTqQkB">
+      <name>The Islander</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AT CH DE DK IS IT NO SE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:3x3zadQfMWLy0PLk7jEDQo">
+      <name>The Islander</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>FI</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:7sQvAm0WDBFvqRhVGDYLI5">
+      <name>The Islander</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AD BE BG CY CZ EE ES FR GB GR HR HU IE IS LI LT LU LV MC MT NL PL PT RO SI SK TR</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:5PLTFg4TqX9Zbby81CX7EZ">
+      <name>Bye Bye Beautiful (Maxi)</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AT DE IT</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:79kltFkMmnHyU84ns7ERG7">
+      <name>Bye Bye Beautiful</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AD BE BG CY CZ EE ES FR GB GR HR HU IE IS LI LT LU LV MC MT NL PL PT RO SI SK TR</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:01ShaKmr7nNxAupHJLckIY">
+      <name>Amaranth [Online Only]</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AT DE DK GR IS IT NO SE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:5SS6okyZOD1WJ8ewBhMTjo">
+      <name>Amaranth</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>FI</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:7bPjYuHrOY95oEJCXjYFPV">
+      <name>Amaranth</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>DK IS NO SE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:1PejyA9Dd6QN7cZ9wXFD2F">
+      <name>Amaranth (Maxi-CD 1)</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>IT</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:1gpHfZ6nRRVmV0719nZqXO">
+      <name>Amaranth</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AD BE BG CY CZ EE ES FR GB GR HR HU IE IS LI LT LU LV MC MT NL PL PT RO SI SK TR</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:3SY0itycaURhnPBFZ6N5mE">
+      <name>Eva</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>FI</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:3CMjJDNhkz2PCUCqN6SGRy">
+      <name>Eva</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>GR</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:5KPEfx1xbOfNtqPBY1r1u0">
+      <name>Eva</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AD BE BG CY CZ EE ES FR GB GR HR HU IE IS LI LT LU LV MC MT NL PL PT RO SI SK TR</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:7H063y7WU9Z0xAuZMcLQ8h">
+      <name>Nuclear Blast Presents Nightwish Bonus</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>DK EE FI IS LT LV NO SE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:6stFipViZL7RXMh1PSBIMm">
+      <name>HiFive - Nightwish Bonus</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AT DE IS IT</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:4tZqdzIzNoYR8u1ZOzsuFs">
+      <name>Nuclear Blast Presents Nightwish Bonus</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AD BE BG CY CZ EE ES FR GB GR HR HU IE IS LI LT LU LV MC MT NL PL PT RO SI SK TR</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:16rsvpqICjuRdAfkIXLykR">
+      <name>Sleeping Sun</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>DK</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:7dphoN78rTjkpJykYURh8R">
+      <name>The Siren</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AT DE IT</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:5op8cn3PtFraOg5zwqHvTi">
+      <name>The Siren</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>DK IS NO SE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:0GeIf67YcjcUvxr1LciV5v">
+      <name>The Siren</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AD BE BG CY CZ EE ES FR GB GR HR HU IE IS LI LT LU LV MC MT NL PL PT RO SI SK TR</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:2OccSBCjdMxusHcwYbTlIu">
+      <name>Wish I Had An Angel</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories />
+      </availability>
+    </album>
+    <album href="spotify:album:6UvZ4wT36tt9o4BztDdngJ">
+      <name>Wish I Had An Angel</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AT DE DK IS IT NO SE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:1ZoC83pgVYwcMMDjCyyAcc">
+      <name>Wish I Had an Angel</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>DK IS NO SE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:3reS1HU73Syxf5QBTaRN8T">
+      <name>Wish I Had An Angel</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AD BE BG CY CZ EE ES FR GB GR HR HU IE IS LI LT LU LV MC MT NL PL PT RO SI SK TR</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:00IANceX8NTeMul66MszfD">
+      <name>Nemo</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>FI</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:5mTVDlQ1RtJ15e5CljlCl0">
+      <name>Nemo</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AT DE DK IS IT NO SE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:5tqTY0Au6i6gFY1A6wpWu0">
+      <name>Nemo</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>FI SG</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:2QEpfyfmbWna642EiWojPU">
+      <name>Nemo (Version 2)</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AT DE DK IS IT NO SE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:5cD5qbvQoGTG0QzB5TFbNW">
+      <name>Nemo</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AD BE BG CY CZ EE ES FR GB GR HR HU IE IS LI LT LU LV MC MT NL PL PT RO SI SK TR</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:5zYJwfNLJOFsAWZ36ZCAHm">
+      <name>Bless The Child</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AT DE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:1w6hzfggyNyCpDKzKwnbrb">
+      <name>Over The Hills And Far Away</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>CZ DK ES PT SK</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:6ko33KKWHC06W1rFz0wTow">
+      <name>Sleeping Sun</name>
+      <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
+        <name>Nightwish</name>
+      </artist>
+      <availability>
+        <territories>AT DE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:4x4TfifRIRXgGpbHZNZXjZ">
+      <name>Femme Fatale: The Best Female Fronted Heavy Metal by Nuclear Blast</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories>AU CA HK MX MY TR TW US</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:3kgXlRcE5FWVw4neIXKTRd">
+      <name>Metal for Gaming</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:44178Uc17XR62GTA1jbt1x">
+      <name>Badass Girls of Rock: The Kick Ass Women of Hard Rock and Heavy Metal Like Epica, Detroit Cobras, Within Temptation, Doro, Crucified Barbara, Nightwish, Stepford 5, Pussycats, And More!</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:0brQJQr5UOdYwtwwXUzifw">
+      <name>Live At Wacken 2013</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:5xoi8eGRAzlNjIfmXIluYq">
+      <name>Suomirockin Järkäleet</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories />
+      </availability>
+    </album>
+    <album href="spotify:album:0CzWVAXT4w58AQNcquJT8r">
+      <name>Live and on Stage in Hell: Live Metal from Nightwish, Epica, Meshuggah, Testament, Immortal, And More</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories>AU CA HK MX MY SG TR TW US</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:2ycweU3JfJ9Sny2osjRhsa">
+      <name>Beauty and the Beast: The His &amp; Hers of Heavy Metal Featuring the Best Male and Female Heavy Metal Bands Nightwish, Sirenia, Hammerfall, Meshuggah, + More!</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories>AU CA MX MY SG TR US</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:624eA7IRbKDBG6L0O3gxng">
+      <name>Maidens of Heavy Metal, Vol. 2: The Best Female Fronted Bands Including Nightwish, Echoes of Eternity, And Arch Enemy</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories>AU CA HK MX MY SG TR TW US</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:3ffBbdL5oucsqSScDvM9ae">
+      <name>Nuclear Blast Presents: Best Metal 2013</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:2cixLSIJ5Xgtf5WWlioyuU">
+      <name>Horns Up! Power Metal</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories>AR AU BO BR CA CL CO CR DO EC GT HN MX NI NZ PA PE PY SV US UY</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:6BeN7QxIyDC7uLdciboxMj">
+      <name>Leijonat 2012</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories>FI</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:4FJJcq4NzJKY1jb33ubBAH">
+      <name>Beauty In Darkness, Vol. 2</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories>AT CH DE DK GR IT NO SE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:4Ne20JHYKda0xVE5qITkDS">
+      <name>Dark Moon Vol. 1 - a Black Tribute to the Gothic Spirit</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:67x2ADcY7aEA8fm8r8lWoo">
+      <name>Beauty In Darkness</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories>AT CH DE DK GR IT NO SE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:33IU9Rh9qgRdQ8hMJKc0SO">
+      <name>Kaikkien Aikojen Suomimetallit</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories />
+      </availability>
+    </album>
+    <album href="spotify:album:03D6ddiIgPU8zoMuayhDHo">
+      <name>Gothic Spirits pres. Dark Ladies</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:7trCNtAaNThPvKSOHl6aDG">
+      <name>Gothic Spirits pres. Dark Ladies</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:6aT17Yir52ZFU1SEEpW9pM">
+      <name>Gothic Spirits pres. Dark Ladies - Online Edition</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:6XoVQWxbjYXwzO5H7D6nME">
+      <name>Gothic Spirits pres. Dark Ladies - Online Edition</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:2GhBIV7Y0IHeUpdv9cPxNF">
+      <name>Kaikkien Aikojen Suomirock Klassikot</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories />
+      </availability>
+    </album>
+    <album href="spotify:album:4xDguyZIury3jB3F4FYbKI">
+      <name>Nuclear Blast Top 20 - Metal's Finest</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories>AT CH CZ DE HU PL</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:34ZKG096lDGk1ePVqSD8lI">
+      <name>Gothic Spirits Vampire Lady</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:6FAWf3pWIorW9S3FLjIpE7">
+      <name>Gothic Spirits Vampire Lady</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:6S9geKhuXjBHqo9bRjxuPu">
+      <name>100 Essential Power Ballads</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories />
+      </availability>
+    </album>
+    <album href="spotify:album:0JOuxdUz9f8bUtn9r1b9kS">
+      <name>Opera Metal Vol. 4</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:1wHf6N0tqoaH6F4HLZBdDQ">
+      <name>Opera Metal Vol. 4</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:4mDknLccvF82vCSVlLcLan">
+      <name>Pörsänmäen Sanomat</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:0anDTe9W7YJ82hIpJCsYft">
+      <name>iMusic1 Rocks</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories />
+      </availability>
+    </album>
+    <album href="spotify:album:4KZ2eiORhfR26p9DsdW51A">
+      <name>Spinefarm Records UK Label Sampler</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories>CZ DK EE FI FR GB HU IE LT LV NO PL PT SE SG SK</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:2QlMG3isYshYJDuO3ODLic">
+      <name>Bloodrayne 2: Deliverance</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:7smDkxDRgqUXUGPnImgr6s">
+      <name>Bajo La Sal</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories>MX</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:0plLmSSMrJwagVDUEPqSWi">
+      <name>Just The Best Vol. 60</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories />
+      </availability>
+    </album>
+    <album href="spotify:album:1Xc6r56UO3Kqn7axspO8nQ">
+      <name>Smash! Vol. 39</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories />
+      </availability>
+    </album>
+    <album href="spotify:album:0kYBsnRlJVqK1k3TYUrmhd">
+      <name>Metaverse</name>
+      <artist href="spotify:artist:3OOGJRs38Dvkuyh9bqIvXk">
+        <name>DJ Orkidea</name>
+      </artist>
+      <availability>
+        <territories>FI</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:472suM2cAHPICgytwHoZKc">
+      <name>Metaverse</name>
+      <artist href="spotify:artist:3OOGJRs38Dvkuyh9bqIvXk">
+        <name>DJ Orkidea</name>
+      </artist>
+      <availability>
+        <territories>FI</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:0knlHkP0g3luiQGLlgzojV">
+      <name>Bravo Hits 60 - Austria Edition</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories />
+      </availability>
+    </album>
+    <album href="spotify:album:72FrFPHpLXMmeCfGgiPal3">
+      <name>Latauslista Top 20</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories />
+      </availability>
+    </album>
+    <album href="spotify:album:4jxqFlcP6NwTdWDC89APma">
+      <name>Suomipoppia 11</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories />
+      </availability>
+    </album>
+    <album href="spotify:album:7Llr6miPoIsBa9yTWvtc1O">
+      <name>Hi Five - Female Fronted Metal</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories>AT DE DK FI GR IS IT NO SE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:22aOnVk4eaeq72FhBrzMSh">
+      <name>Metallic Emotions</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories>AD BE BG CY CZ EE ES FR GB GR HR HU IE IS LI LT LU LV MC MT NL PL PT RO SI SK TR</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:1DkQm2GD5vuqnUfYNywimN">
+      <name>Metallic Emotions (New Version)</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories>AT CH DE IT</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:0gTBfbw4XVrPLiPBQFXlA3">
+      <name>Land Of Darkness</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories />
+      </availability>
+    </album>
+    <album href="spotify:album:6JxYfFjuUned2LqWFkU0GC">
+      <name>Metallic Files - A Christmas Collection</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories>AR AU BO BR CA CL CO CR DO EC GT HK HN MX MY NI NZ PA PE PH PY SG SV TW US UY</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:2QzI7zM6S9013DFX8m2to9">
+      <name>Nuclear Blast Showdown 2005</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories>AR AU BO BR CA CL CO CR DO EC GT HK HN MX MY NI NZ PA PE PH PY SG SV TW US UY</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:429O5Iqeo8FKgmhFoEaWtD">
+      <name>Alone In The Dark</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories>AD BE BG CY CZ EE ES FR GB GR HR HU IE IS LI LT LU LV MC MT NL PL PT RO SI SK TR</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:5LwXOPfrERxUnyal2eqf7L">
+      <name>Metallic Files - A Christmas Collection</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories>AD BE BG CY CZ EE ES FR GB GR HR HU IE IS LI LT LU LV MC MT NL PL PT RO SI SK TR</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:0u0Wi9MdFJUYGZJ1QosSrn">
+      <name>Alone In The Dark</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories>AR AU BO BR CA CL CO CR DO EC GT HN MT MX MY NI NZ PA PE PH PY SG SV TR US UY</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:4HQlkv5CDvNmzIJSXjkWJr">
+      <name>Celtic Circle</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories />
+      </availability>
+    </album>
+    <album href="spotify:album:1rveHnV0q7HqXTQfLjKPxO">
+      <name>Beauty in Darkness Vol.2</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories>AD BE BG CY CZ EE ES FR GB GR HR HU IE IS LI LT LU LV MC MT NL PL PT RO SI SK TR</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:5K0lIcsefQulJd5fHNRNHP">
+      <name>Beauty in Darkness</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <availability>
+        <territories>AD BE BG CY CZ EE ES FR GB GR HR HU IE IS LI LT LU LV MC MT NL PL PT RO SI SK TR</territories>
+      </availability>
+    </album>
+  </albums>
+</artist>

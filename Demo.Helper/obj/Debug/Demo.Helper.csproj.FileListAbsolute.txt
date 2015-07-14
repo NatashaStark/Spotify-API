@@ -3,3 +3,12 @@ C:\Users\Natasha Stark\Documents\Visual Studio 2013\Projects\PruebaAcidLabs\Demo
 C:\Users\Natasha Stark\Documents\Visual Studio 2013\Projects\PruebaAcidLabs\Demo.Helper\bin\Debug\Demo.Helper.pdb
 C:\Users\Natasha Stark\Documents\Visual Studio 2013\Projects\PruebaAcidLabs\Demo.Helper\obj\Debug\Demo.Helper.dll
 C:\Users\Natasha Stark\Documents\Visual Studio 2013\Projects\PruebaAcidLabs\Demo.Helper\obj\Debug\Demo.Helper.pdb
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\Demo.Helper\bin\Debug\Demo.Helper.dll
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\Demo.Helper\bin\Debug\Demo.Helper.pdb
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\Demo.Helper\obj\Debug\Demo.Helper.dll
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\Demo.Helper\obj\Debug\Demo.Helper.pdb
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\Demo.Helper\bin\Debug\Demo.Helper.dll.config
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\Demo.Helper\bin\Debug\EntityFramework.dll
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\Demo.Helper\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\Demo.Helper\bin\Debug\EntityFramework.xml
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\Demo.Helper\bin\Debug\EntityFramework.SqlServer.xml
