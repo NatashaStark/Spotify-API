@@ -42,27 +42,29 @@ namespace Demo.Helper
                         {
                             ArtistaID = ds.Tables[0].Rows[1][2].ToString().Split(':')[2].ToString(),
                             name = rows[0].ToString(),
-                            ID = rows[1].ToString(),
-                            availability = ds.Tables[3].Rows[Convert.ToInt32(rows[1].ToString())][0].ToString()
+                            ID = rows[3].ToString().Split(':')[2].ToString(),
+                            availability = ds.Tables[3].Rows[Convert.ToInt32(rows[1].ToString())][0].ToString(),
+                            released = Convert.ToInt32(rows[2].ToString())
                         }).ToList();
             return albumes;
         }
 
-        //public List<Track> RetrunListaPistas(string Path)
-        //{
-        //    string xmlData = Path;
-        //    DataSet ds = new DataSet(); //Using dataset to read xml file  
-        //    ds.ReadXml(xmlData);
-        //    var pistas = new List<Track>();
-        //    pistas = (from rows in ds.Tables[2].AsEnumerable()
-        //               select new Track
-        //               {
-        //                   ArtistaID = ds.Tables[0].Rows[1][2].ToString().Split(':')[2].ToString(),
-        //                   name = rows[0].ToString(),
-        //                   ID = rows[1].ToString(),
-        //                   availability = ds.Tables[3].Rows[Convert.ToInt32(rows[1].ToString())][0].ToString()
-        //               }).ToList();
-        //    return pistas;
-        //}
+        public List<Track> RetrunListaPistas(string Path)
+        {
+            string xmlData = Path;
+            DataSet ds = new DataSet(); //Using dataset to read xml file  
+            ds.ReadXml(xmlData);
+            var pistas = new List<Track>();
+            pistas = (from rows in ds.Tables[4].AsEnumerable()
+                      select new Track
+                      {
+                          ID = rows[1].ToString(),
+                          name = rows[0].ToString(),
+                          tracknumber = rows[4].ToString(),
+                          length = rows[5].ToString(),
+                          popularity = rows[6].ToString()
+                      }).ToList();
+            return pistas;
+        }
     }
 }

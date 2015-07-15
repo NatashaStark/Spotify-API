@@ -1,0 +1,58 @@
+﻿@model PruebaAcidLabs.Models.Pista
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Pista</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.AlbumID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AlbumID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NombrePista)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NombrePista)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NumeroPista)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NumeroPista)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Duracion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Duracion)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Popularidad)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Popularidad)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

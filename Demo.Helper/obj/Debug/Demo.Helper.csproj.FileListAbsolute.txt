@@ -12,3 +12,4 @@ C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\Demo.Helper\bin\Debug\
 C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\Demo.Helper\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\Demo.Helper\bin\Debug\EntityFramework.xml
 C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\Demo.Helper\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\Demo.Helper\obj\Debug\Demo.Helper.csprojResolveAssemblyReference.cache

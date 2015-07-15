@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<album xmlns="http://www.spotify.com/ns/music/1">
+  <name>Now 5</name>
+  <artist>
+    <name>Various Artists</name>
+  </artist>
+  <released>2000</released>
+  <id type="upc">696998520622</id>
+  <tracks>
+    <track href="spotify:track:3wjLgJPKUcUmSH62gCbZvw">
+      <name>It's Gonna Be Me</name>
+      <artist href="spotify:artist:6Ff53KvcvAj5U7Z1vojB5o">
+        <name>N Sync</name>
+      </artist>
+      <available>true</available>
+      <id type="isrc">USJI10000043</id>
+      <disc-number>1</disc-number>
+      <track-number>1</track-number>
+      <length>190.533000</length>
+      <popularity>0.23000</popularity>
+    </track>
+    <track href="spotify:track:4QGOn3R4shrNBefUG4BDwx">
+      <name>Give Me Just One Night (Una Noche)</name>
+      <artist href="spotify:artist:6V03b3Y36lolYP2orXn8mV">
+        <name>98º</name>
+      </artist>
+      <available>true</available>
+      <id type="isrc">USUR10000514</id>
+      <disc-number>1</disc-number>
+      <track-number>2</track-number>
+      <length>204.133000</length>
+      <popularity>0.00000</popularity>
+    </track>
+    <track href="spotify:track:5MIqoqd3juGdwpRT1CzgH0">
+      <name>Jumpin', Jumpin'</name>
+      <artist href="spotify:artist:1Y8cdNmUJH7yBTd9yOvr5i">
+        <name>Destiny's Child</name>
+      </artist>
+      <available>true</available>
+      <id type="isrc">USSM19901054</id>
+      <disc-number>1</disc-number>
+      <track-number>3</track-number>
+      <length>227.226000</length>
+      <popularity>0.24000</popularity>
+    </track>
+    <track href="spotify:track:5lXRKd7i4LLcXL2bJUTDYT">
+      <name>Don't Think I'm Not - Radio Edit</name>
+      <artist href="spotify:artist:0ThrQemMA2B8xxusTUl8IM">
+        <name>Kandi</name>
+      </artist>
+      <available>true</available>
+      <id type="isrc">USSM10009858</id>
+      <disc-number>1</disc-number>
+      <track-number>4</track-number>
+      <length>229.933000</length>
+      <popularity>0.20000</popularity>
+    </track>
+    <track href="spotify:track:3YmInoiUKVvYlQe7wcx1fJ">
+      <name>I Think I'm in Love with You - Radio Version</name>
+      <artist href="spotify:artist:2tFN9ubMXEhdAQvdQxcsma">
+        <name>Jessica Simpson</name>
+      </artist>
+      <available>true</available>
+      <id type="isrc">USSM10009070</id>
+      <disc-number>1</disc-number>
+      <track-number>5</track-number>
+      <length>215.960000</length>
+      <popularity>0.23000</popularity>
+    </track>
+    <track href="spotify:track:2VQLZmYoTQG0cuTPfjjN9L">
+      <name>Faded - with Rap</name>
+      <artist href="spotify:artist:6hYrBYtoVGArYJcqvYxN4r">
+        <name>SoulDecision</name>
+      </artist>
+      <available>true</available>
+      <id type="isrc">CAM190000020</id>
+      <disc-number>1</disc-number>
+      <track-number>6</track-number>
+      <length>204.533000</length>
+      <popularity>0.00000</popularity>
+    </track>
+    <track href="spotify:track:4Iz8yhRHZfOXCnvt0GzmCa">
+      <name>Shake It Fast</name>
+      <artist href="spotify:artist:3LIJJJkO7R5RasRwt7xIn5">
+        <name>Mystikal</name>
+      </artist>
+      <available>true</available>
+      <id type="isrc">USLIC0601427</id>
+      <disc-number>1</disc-number>
+      <track-number>7</track-number>
+      <length>253.600000</length>
+      <popularity>0.00000</popularity>
+    </track>
+    <track href="spotify:track:5II3vITdtJIf0zzHhP7i9N">
+      <name>Case of the Ex</name>
+      <artist href="spotify:artist:6lHL3ubAMgSasKjNqKb8HF">
+        <name>Mya</name>
+      </artist>
+      <available>true</available>
+      <id type="isrc">USIR10000224</id>
+      <disc-number>1</disc-number>
+      <track-number>8</track-number>
+      <length>230.533000</length>
+      <popularity>0.00000</popularity>
+    </track>
+    <track href="spotify:track:785FkM545O2T6u926LNMTV">
+      <name>Aaron's Party (Come Get It)</name>
+      <artist href="spotify:artist:5338fdSzGNOFD4cxAxDTeq">
+        <name>Aaron Carter</name>
+      </artist>
+      <available>true</available>
+      <id type="isrc">USJI10000296</id>
+      <disc-number>1</disc-number>
+      <track-number>9</track-number>
+      <length>205.293000</length>
+      <popularity>0.21000</popularity>
+    </track>
+    <track href="spotify:track:4jsrRLaSCbsyzcNmPOcK4L">
+      <name>Lucky</name>
+      <artist href="spotify:artist:26dSoYclwsYLMAKD3tpOr4">
+        <name>Britney Spears</name>
+      </artist>
+      <available>true</available>
+      <id type="isrc">USJI10000148</id>
+      <disc-number>1</disc-number>
+      <track-number>10</track-number>
+      <length>204.466000</length>
+      <popularity>0.26000</popularity>
+    </track>
+    <track href="spotify:track:0wdvwFpMuDkmozKTjycAyr">
+      <name>Show Me the Meaning of Being Lonely</name>
+      <artist href="spotify:artist:5rSXSAkZ67PYJSvpUpkOr7">
+        <name>Backstreet Boys</name>
+      </artist>
+      <available>true</available>
+      <id type="isrc">USJI19910621</id>
+      <disc-number>1</disc-number>
+      <track-number>11</track-number>
+      <length>233.506000</length>
+      <popularity>0.20000</popularity>
+    </track>
+    <track href="spotify:track:7CvyNA36TG2Xy0eYPGc9xd">
+      <name>Incomplete</name>
+      <artist href="spotify:artist:6x9QLdzo6eBZxJ1bHsDkjg">
+        <name>Sisqo</name>
+      </artist>
+      <available>true</available>
+      <id type="isrc">USDJ29905198</id>
+      <disc-number>1</disc-number>
+      <track-number>12</track-number>
+      <length>231.373000</length>
+      <popularity>0.00000</popularity>
+    </track>
+    <track href="spotify:track:19TuwxqoP6cCxUKTp96SeY">
+      <name>I Wanna Be With You</name>
+      <artist href="spotify:artist:2LJxr7Pt3JnP60eLxwbDOu">
+        <name>Mandy Moore</name>
+      </artist>
+      <available>true</available>
+      <id type="isrc">USSM10008006</id>
+      <disc-number>1</disc-number>
+      <track-number>13</track-number>
+      <length>252.266000</length>
+      <popularity>0.18000</popularity>
+    </track>
+    <track href="spotify:track:1YAiVc1z91jz2WWWkktAnh">
+      <name>Doesn't Really Matter</name>
+      <artist href="spotify:artist:0LwySibLlyu9JUdUFN1ZoS">
+        <name>Janet</name>
+      </artist>
+      <available>true</available>
+      <id type="isrc">USLIC0601430</id>
+      <disc-number>1</disc-number>
+      <track-number>14</track-number>
+      <length>256.600000</length>
+      <popularity>0.00000</popularity>
+    </track>
+    <track href="spotify:track:52UGU2EzxptaYQJ6FYeObu">
+      <name>Back Here</name>
+      <artist href="spotify:artist:7y1GT7SdgGiFLWoktv2TSw">
+        <name>BBMak</name>
+      </artist>
+      <available>true</available>
+      <id type="isrc">USHR19926004</id>
+      <disc-number>1</disc-number>
+      <track-number>15</track-number>
+      <length>217.293000</length>
+      <popularity>0.01000</popularity>
+    </track>
+    <track href="spotify:track:1pHMAROwUHXIIDxgNrp3cm">
+      <name>Absolutely (Story of a Girl) - Radio Mix</name>
+      <artist href="spotify:artist:306JHpIRGVaQd6OltnOzUO">
+        <name>Nine Days</name>
+      </artist>
+      <available>true</available>
+      <id type="isrc">USSM10001437</id>
+      <disc-number>1</disc-number>
+      <track-number>16</track-number>
+      <length>191.733000</length>
+      <popularity>0.26000</popularity>
+    </track>
+    <track href="spotify:track:4ITPbZ9spkhnQsWvnUu2Iv">
+      <name>Kryptonite</name>
+      <artist href="spotify:artist:2RTUTCvo6onsAnheUk3aL9">
+        <name>3 Doors Down</name>
+      </artist>
+      <available>true</available>
+      <id type="isrc">USUR19980187</id>
+      <disc-number>1</disc-number>
+      <track-number>17</track-number>
+      <length>233.773000</length>
+      <popularity>0.00000</popularity>
+    </track>
+    <track href="spotify:track:6SHIIclfrDjL4nvNNS3kOr">
+      <name>Wonderful</name>
+      <artist href="spotify:artist:694QW15WkebjcrWgQHzRYF">
+        <name>Everclear</name>
+      </artist>
+      <available>true</available>
+      <id type="isrc">USLIC0601431</id>
+      <disc-number>1</disc-number>
+      <track-number>18</track-number>
+      <length>272.066000</length>
+      <popularity>0.00000</popularity>
+    </track>
+    <track href="spotify:track:1qE6CNKoeZZBETheHDV4WR">
+      <name>It's My Life</name>
+      <artist href="spotify:artist:58lV9VcRSjABbAbfWS6skp">
+        <name>Bon Jovi</name>
+      </artist>
+      <available>true</available>
+      <id type="isrc">USIR20000145</id>
+      <disc-number>1</disc-number>
+      <track-number>19</track-number>
+      <length>223.360000</length>
+      <popularity>0.00000</popularity>
+    </track>
+  </tracks>
+  <availability>
+    <territories />
+  </availability>
+</album>

@@ -61,11 +61,12 @@ namespace PruebaAcidLabs.Controllers
 
             //buscando albumes
             string Path = Server.MapPath("~/App_Data/ListaAlbumes.xml");
+            string PathPistas = Server.MapPath("~/App_Data/ListaPistas.xml");
 
             if (ID != null)
             {
                 // Retrieve XML document  
-                string Url = "https://ws.spotify.com/lookup/1/?uri=spotify:artist:" + ID + "&extras=album";
+                string Url = "https://ws.spotify.com/lookup/1/?uri=spotify:artist:" + ID + "&extras=albumdetail";
 
                 XmlDocument myXMLDocument = new XmlDocument();
 
@@ -80,17 +81,49 @@ namespace PruebaAcidLabs.Controllers
                 {
                     var alb = new Album();
 
-                    alb.ID = album.ArtistaID + album.ID;
+                    alb.ID = album.ID + art.ID;
                     alb.ArtistaID = album.ArtistaID;
                     alb.NombreAlbum = album.name;
                     //alb.PopularidadAlbum = album.popularity;
                     alb.Disponibilidad = album.availability;
+                    alb.Año = album.released;
 
                     using (var dbCtx = new SpotifyContext())
                     {
                         dbCtx.Albumes.Add(alb);
 
                         dbCtx.SaveChanges();
+                    }
+
+                    // Retrieve XML document  
+                    string UrlPista = "https://ws.spotify.com/lookup/1/?uri=spotify:album:" + album.ID + "&extras=trackdetail";
+
+                    XmlDocument myXMLDocumentPista = new XmlDocument();
+
+                    myXMLDocumentPista.Load(UrlPista);
+
+                    myXMLDocumentPista.Save(PathPistas);
+
+                    XMLReader readXMLPista = new XMLReader();
+                    var dataPista = readXMLPista.RetrunListaPistas(PathPistas);
+
+                    foreach (var track in dataPista.ToList())
+                    {
+                        var tra = new Pista();
+
+                        tra.ID = track.ID + alb.ID;
+                        tra.AlbumID = alb.ID;
+                        tra.NombrePista = track.name;
+                        tra.Popularidad = track.popularity;
+                        tra.Duracion = track.length;
+                        tra.NumeroPista = Convert.ToInt32(track.tracknumber);
+
+                        using (var dbCtxPista = new SpotifyContext())
+                        {
+                            dbCtxPista.Pistas.Add(tra);
+
+                            dbCtxPista.SaveChanges();
+                        }
                     }
                 }
             }

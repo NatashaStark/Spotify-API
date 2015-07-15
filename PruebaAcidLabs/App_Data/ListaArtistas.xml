@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <artists xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.spotify.com/ns/music/1">
-  <opensearch:Query role="request" startPage="1" searchTerms="Nightwish" />
+  <opensearch:Query role="request" startPage="1" searchTerms="3 doors down" />
   <opensearch:totalResults>2</opensearch:totalResults>
   <opensearch:startIndex>0</opensearch:startIndex>
   <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
-  <artist href="spotify:artist:2NPduAUeLVsfIauhRwuft1">
-    <name>Nightwish</name>
-    <popularity>0.72</popularity>
+  <artist href="spotify:artist:2RTUTCvo6onsAnheUk3aL9">
+    <name>3 Doors Down</name>
+    <popularity>0.77</popularity>
   </artist>
-  <artist href="spotify:artist:5PvT3IZFIjMLrj1lhezX2R">
-    <name>DJ Somy feat. Nightwish</name>
-    <popularity>0.18</popularity>
+  <artist href="spotify:artist:2kPbQDZvnasPcCuXbq6YQx">
+    <name>Bret Michaels (Featuring Brad Arnold of 3 Doors Down, Chris Cagle, Mark Wills)</name>
+    <popularity>0.07</popularity>
   </artist>
 </artists>

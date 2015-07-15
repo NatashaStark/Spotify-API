@@ -19,11 +19,13 @@ namespace PruebaAcidLabs.Controllers
         public ActionResult Index(string id)
         {
             //var albumes = db.Albumes.Include(a => a.Artista);
+            //return View(albumes.ToList());
 
             using (var db = new SpotifyContext())
             {
                 var query = from p in db.Albumes
                             where p.ArtistaID == id
+                            orderby p.Año descending
                             select p;
                 return View(query.Include(a => a.Artista).ToList());
             }
@@ -56,7 +58,7 @@ namespace PruebaAcidLabs.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "ID,ArtistaID,NombreAlbum,PopularidadAlbum,Disponibilidad")] Album album)
+        public ActionResult Create([Bind(Include = "ID,ArtistaID,NombreAlbum,Año,Disponibilidad")] Album album)
         {
             if (ModelState.IsValid)
             {
@@ -90,7 +92,7 @@ namespace PruebaAcidLabs.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "ID,ArtistaID,NombreAlbum,PopularidadAlbum,Disponibilidad")] Album album)
+        public ActionResult Edit([Bind(Include = "ID,ArtistaID,NombreAlbum,Año,Disponibilidad")] Album album)
         {
             if (ModelState.IsValid)
             {

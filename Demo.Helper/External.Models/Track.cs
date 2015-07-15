@@ -8,12 +8,10 @@ using System.Xml.Serialization;
 namespace Demo.Helper.External.Models
 {
     [Serializable]
-    [XmlRoot("Albums"), XmlType("Albums")]
+    [XmlRoot("Tracks"), XmlType("Tracks")]
     public class Track
     {
         public string ID { get; set; }
-        public string AlbumID { get; set; }
-        public string ArtistaID { get; set; }
         public string name { get; set; }
         public string tracknumber { get; set; }
         public string length { get; set; }

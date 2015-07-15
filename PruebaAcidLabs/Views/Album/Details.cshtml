@@ -27,11 +27,11 @@
         </dd>
 
         <dt>
-            @Html.DisplayNameFor(model => model.PopularidadAlbum)
+            @Html.DisplayNameFor(model => model.Año)
         </dt>
 
         <dd>
-            @Html.DisplayFor(model => model.PopularidadAlbum)
+            @Html.DisplayFor(model => model.Año)
         </dd>
 
         <dt>
@@ -42,6 +42,13 @@
             @Html.DisplayFor(model => model.Disponibilidad)
         </dd>
 
+        <dt>
+            Pistas
+        </dt>
+
+        <dd>
+            @Html.ActionLink("Lista de Pistas", "Index", "Pista", new { id = Model.ID }, null)
+        </dd>
     </dl>
 </div>
 <p>

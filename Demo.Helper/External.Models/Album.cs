@@ -15,6 +15,7 @@ namespace Demo.Helper.External.Models
         public string ArtistaID { get; set; }
         public string name { get; set; }
         public string popularity { get; set; }
+        public int released { get; set; }
         public string availability { get; set; }
     }
 }
