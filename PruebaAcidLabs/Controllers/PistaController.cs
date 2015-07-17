@@ -19,14 +19,12 @@ namespace PruebaAcidLabs.Controllers
         public ActionResult Index(string id)
         {
             //return View(db.Pistas.ToList());
-            using (var db = new SpotifyContext())
-            {
-                var query = from p in db.Pistas
-                            where p.AlbumID == id
-                            orderby p.NumeroPista ascending
-                            select p;
-                return View(query.Include(a => a.Album).ToList());
-            }
+
+            var query = from p in db.Pistas
+                        where p.AlbumID == id
+                        orderby p.NumeroPista ascending
+                        select p;
+            return View(query.Include(a => a.Album).ToList());
         }
 
         // GET: Pista/Details/5

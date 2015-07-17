@@ -66,4 +66,3 @@ C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\PruebaAcidLabs\obj\Deb
 C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\PruebaAcidLabs\obj\Debug\PruebaAcidLabs.pdb
 C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\PruebaAcidLabs\obj\Debug\PruebaAcidLabs.Migrations.init.resources
 C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\PruebaAcidLabs\obj\Debug\PruebaAcidLabs.csproj.GenerateResource.Cache
-C:\Users\Natasha Stark\Documents\GitHub\Spotify-API\trunk\PruebaAcidLabs\obj\Debug\PruebaAcidLabs.Migrations.init1.resources

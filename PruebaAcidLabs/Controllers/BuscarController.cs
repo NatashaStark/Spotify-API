@@ -114,8 +114,8 @@ namespace PruebaAcidLabs.Controllers
                         tra.ID = track.ID + alb.ID;
                         tra.AlbumID = alb.ID;
                         tra.NombrePista = track.name;
-                        tra.Popularidad = track.popularity;
-                        tra.Duracion = track.length;
+                        tra.Popularidad = Convert.ToDecimal(track.popularity.Replace('.',','));
+                        tra.Duracion = Convert.ToDecimal(track.length.Replace('.', ','));
                         tra.NumeroPista = Convert.ToInt32(track.tracknumber);
 
                         using (var dbCtxPista = new SpotifyContext())

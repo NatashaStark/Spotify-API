@@ -21,19 +21,38 @@ namespace PruebaAcidLabs.Controllers
             //var albumes = db.Albumes.Include(a => a.Artista);
             //return View(albumes.ToList());
 
-            using (var db = new SpotifyContext())
-            {
-                var query = from p in db.Albumes
-                            where p.ArtistaID == id
-                            orderby p.Año descending
-                            select p;
-                return View(query.Include(a => a.Artista).ToList());
-            }
+            var query = from p in db.Albumes
+                        where p.ArtistaID == id
+                        orderby p.Año descending
+                        select p;
+            return View(query.Include(a => a.Artista).ToList());
         }
 
         // GET: Album/Details/5
         public ActionResult Details(string id)
         {
+            var query = from p in db.Pistas 
+                        where p.AlbumID == id
+                        group p by p.AlbumID into g
+                        select new
+                        {
+                            g.Key,
+                            Popularidad = g.Average(p => p.Popularidad)
+                        };
+            
+            var query2 = from p in db.Pistas
+                        where p.AlbumID == id
+                        group p by p.NombrePista into g
+                        select new
+                        {
+                            g.Key,
+                            LongitudPista = g.Max(p => p.Duracion)
+                        };
+
+            ViewBag.PopularidadPromedio = query.FirstOrDefault().Popularidad;
+            ViewBag.PistaMasLarga = query2.FirstOrDefault().Key;
+            ViewBag.LongitudPistaMasLarga = query2.FirstOrDefault().LongitudPista;
+
             if (id == null)
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);

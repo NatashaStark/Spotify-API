@@ -126,13 +126,9 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201507152113087_init.cs" />
-    <Compile Include="Migrations\201507152113087_init.Designer.cs">
-      <DependentUpon>201507152113087_init.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201507152123268_init1.cs" />
-    <Compile Include="Migrations\201507152123268_init1.Designer.cs">
-      <DependentUpon>201507152123268_init1.cs</DependentUpon>
+    <Compile Include="Migrations\201507171606169_init.cs" />
+    <Compile Include="Migrations\201507171606169_init.Designer.cs">
+      <DependentUpon>201507171606169_init.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Album.cs" />
@@ -210,11 +206,8 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201507152113087_init.resx">
-      <DependentUpon>201507152113087_init.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201507152123268_init1.resx">
-      <DependentUpon>201507152123268_init1.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201507171606169_init.resx">
+      <DependentUpon>201507171606169_init.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
